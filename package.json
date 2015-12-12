@@ -1,0 +1,32 @@
+{
+  "name": "semanticreleases4everyone",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Give semantic releases to the people man",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiosantoscode/semanticreleases4everyone.git"
+  },
+  "keywords": [
+    "semantic",
+    "relase",
+    "service",
+    "lel"
+  ],
+  "author": "fabiosantosart@gmail.com",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fabiosantoscode/semanticreleases4everyone/issues"
+  },
+  "homepage": "https://github.com/fabiosantoscode/semanticreleases4everyone#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "js-github": "^1.0.0"
+  }
+}
